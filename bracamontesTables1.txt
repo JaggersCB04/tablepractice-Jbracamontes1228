@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+   <table>
+ <tr>
+ <th>Period</th>
+ <th>Class</th>
+ <th>Teacher</th>
+ <th>Room</th>
+ </tr>
+ <tr>
+ <td>1<sup>st</sup></td>
+ <td>Science</td>
+ <td>Mrs.Felix</td>
+ <td>13</td>
+ </tr>
+ <tr>
+ <td>2<sup>nd</sup></td>
+ <td>Spansih</td>
+ <td>Mr.Durand</td>
+ <td>87</td>
+ </tr>
+ <tr>
+ <td>3<sup>rd</sup></td>
+ <td>English</td>
+ <td>Ms.Jaggers</td>
+ <td>82</td>
+ </tr>
+ <tr>
+ <td>4<sup>th</sup></td>
+ <td>P.E.</td>
+ <td>Mr.Valle</td>
+ <td>46</td>
+ </tr>
+ <tr>
+ <td>5<sup>th</sup></td>
+ <td>Algebra</td>
+ <td>Ms.Day</td>
+ <td>85</td>
+ </tr>
+ <tr>
+ <td>6<sup>th</sup></td>
+ <td>Social Studies</td>
+ <td>Mr.Price</td>
+ <td>72</td>
+ </tr>
+ <tr>
+ <td>7<sup>th</sup><td>
+ <td>Intro to Video Productions</td>
+ <td>Mrs.Styles</td>
+ <td>72</td>
+ </tr>
+ </table>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+   <table>
+ <tr>
+ <th>Period</th>
+ <th>Class</th>
+ <th>Teacher</th>
+ <th>Room</th>
+ </tr>
+ <tr>
+ <td>1<sup>st</sup></td>
+ <td>Science</td>
+ <td>Mrs.Felix</td>
+ <td>13</td>
+ </tr>
+ <tr>
+ <td>2<sup>nd</sup></td>
+ <td>Drawing and Painting</td>
+ <td>Ms.Wons</td>
+ <td>205</td>
+ </tr>
+ <tr>
+ <td>3<sup>rd</sup></td>
+ <td>Spanish</td>
+ <td>Mr.Durand</td>
+ <td>87</td>
+ </tr>
+ <tr>
+ <td>4<sup>th</sup></td>
+ <tdEnglish</td>
+ <td>Ms.Jaggers</td>
+ <td>82</td>
+ </tr>
+ <tr>
+ <td>5<sup>th</sup></td>
+ <td>Social Studies</td>
+ <td>Mr.Price</td>
+ <td>72</td>
+ </tr>
+ <tr>
+ <td>6<sup>th</sup></td>
+ <td>Social Studies</td>
+ <td>Mr.Price</td>
+ <td>72</td>
+ </tr>
+ <tr>
+ <td>7<sup>th</sup><td>
+ <td>Intro to Video Productions</td>
+ <td>Mrs.Styles</td>
+ <td>72</td>
+ </tr>
+ </table>
+  </body>
+</html>
+
+
+
